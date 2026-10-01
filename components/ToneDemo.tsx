@@ -22,7 +22,7 @@ export default function ToneDemo() {
         autoFocus
         value={name}
         onChange={(event) => changeName(event.target.value)}
-        placeholder="movie collection name"
+        placeholder={`try "relaxed afternoon", "scary" etc.`}
         aria-label="Tone"
         autoCorrect="off"
         spellCheck={false}
