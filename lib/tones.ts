@@ -132,6 +132,8 @@ export const TONES = {
 
 export type Tone = keyof typeof TONES
 
+export const TONE_SUGGESTION_COUNT = 3
+
 export type ToneSuggestion = {
   tone: Tone
   colors: readonly [string, string]

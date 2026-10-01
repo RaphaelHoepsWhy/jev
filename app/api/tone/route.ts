@@ -1,6 +1,11 @@
 import type { NextRequest } from "next/server"
 import { experimental_evaluate } from "ai"
-import { TONES, type Tone, type ToneSuggestion } from "@/lib/tones"
+import {
+  TONE_SUGGESTION_COUNT,
+  TONES,
+  type Tone,
+  type ToneSuggestion,
+} from "@/lib/tones"
 
 const MAX_NAME_LENGTH = 100
 
@@ -27,9 +32,14 @@ export async function GET(request: NextRequest) {
   })
   const { choice, probabilities } = answers.tone
 
-  return Response.json({
-    tone: choice,
-    colors: TONES[choice].colors,
-    probability: probabilities?.[choice] ?? 0,
-  } satisfies ToneSuggestion)
+  const suggestions = Object.entries(probabilities ?? { [choice]: 0 })
+    .sort(([, a], [, b]) => b - a)
+    .slice(0, TONE_SUGGESTION_COUNT)
+    .map(([tone, probability]) => ({
+      tone: tone as Tone,
+      colors: TONES[tone as Tone].colors,
+      probability,
+    }))
+
+  return Response.json(suggestions satisfies ToneSuggestion[])
 }
