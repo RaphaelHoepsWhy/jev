@@ -5,7 +5,13 @@ import { cn } from "@/app/lib/utils"
 import Pagination from "@/components/Pagination"
 import StockTable from "@/components/StockTable"
 import useStockRanking from "@/hooks/useStockRanking"
-import { sortStocks, type StockSort, type StockSortKey } from "@/lib/stocks"
+import {
+  filterStocks,
+  sortStocks,
+  STOCKS,
+  type StockSort,
+  type StockSortKey,
+} from "@/lib/stocks"
 
 const PAGE_SIZE = 10
 
@@ -15,7 +21,7 @@ export default function StockDemo() {
   const [sort, setSort] = useState<StockSort>({ key: "name", direction: "asc" })
   const { ranking, isRanking, rankStocks } = useStockRanking()
 
-  const stocks = sortStocks(ranking, sort)
+  const stocks = sortStocks(filterStocks(ranking), ranking, sort)
   const pageCount = Math.ceil(stocks.length / PAGE_SIZE)
   const pageStocks = stocks.slice(
     pageIndex * PAGE_SIZE,
@@ -50,6 +56,11 @@ export default function StockDemo() {
       />
 
       <div className="flex w-full flex-col gap-2">
+        <p className="h-4 font-mono text-xs text-zinc-500">
+          {ranking
+            ? `${stocks.length} of ${STOCKS.length} match`
+            : `${STOCKS.length} stocks`}
+        </p>
         <div
           className={cn(
             "overflow-x-auto transition-opacity",

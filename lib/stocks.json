@@ -1,0 +1,7002 @@
+[
+  {
+    "ticker": "SAP",
+    "name": "SAP",
+    "sector": "Software",
+    "country": "Germany",
+    "diffPercent": 2.4
+  },
+  {
+    "ticker": "SIE",
+    "name": "Siemens",
+    "sector": "Industrials",
+    "country": "Germany",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "ALV",
+    "name": "Allianz",
+    "sector": "Insurance",
+    "country": "Germany",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "DTE",
+    "name": "Deutsche Telekom",
+    "sector": "Telecommunications",
+    "country": "Germany",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "BAS",
+    "name": "BASF",
+    "sector": "Chemicals",
+    "country": "Germany",
+    "diffPercent": -2.3
+  },
+  {
+    "ticker": "BMW",
+    "name": "BMW",
+    "sector": "Automotive",
+    "country": "Germany",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "MBG",
+    "name": "Mercedes-Benz Group",
+    "sector": "Automotive",
+    "country": "Germany",
+    "diffPercent": -2.9
+  },
+  {
+    "ticker": "VOW3",
+    "name": "Volkswagen",
+    "sector": "Automotive",
+    "country": "Germany",
+    "diffPercent": -3.4
+  },
+  {
+    "ticker": "BAYN",
+    "name": "Bayer",
+    "sector": "Pharmaceuticals",
+    "country": "Germany",
+    "diffPercent": -4.7
+  },
+  {
+    "ticker": "IFX",
+    "name": "Infineon Technologies",
+    "sector": "Semiconductors",
+    "country": "Germany",
+    "diffPercent": 3.8
+  },
+  {
+    "ticker": "DBK",
+    "name": "Deutsche Bank",
+    "sector": "Banking",
+    "country": "Germany",
+    "diffPercent": 1.6
+  },
+  {
+    "ticker": "ADS",
+    "name": "adidas",
+    "sector": "Apparel",
+    "country": "Germany",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "RHM",
+    "name": "Rheinmetall",
+    "sector": "Defense",
+    "country": "Germany",
+    "diffPercent": 6.3
+  },
+  {
+    "ticker": "MUV2",
+    "name": "Munich Re",
+    "sector": "Insurance",
+    "country": "Germany",
+    "diffPercent": 0.8
+  },
+  {
+    "ticker": "DHL",
+    "name": "DHL Group",
+    "sector": "Logistics",
+    "country": "Germany",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "EOAN",
+    "name": "E.ON",
+    "sector": "Utilities",
+    "country": "Germany",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 7.9
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "sector": "Software",
+    "country": "United States",
+    "diffPercent": 2.1
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet",
+    "sector": "Internet Services",
+    "country": "United States",
+    "diffPercent": 1.4
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "sector": "Social Media",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 4.6
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies",
+    "sector": "Software",
+    "country": "United States",
+    "diffPercent": 5.2
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 3.1
+  },
+  {
+    "ticker": "AI",
+    "name": "C3.ai",
+    "sector": "Software",
+    "country": "United States",
+    "diffPercent": -5.8
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple",
+    "sector": "Consumer Electronics",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "sector": "E-Commerce",
+    "country": "United States",
+    "diffPercent": 0.9
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla",
+    "sector": "Automotive",
+    "country": "United States",
+    "diffPercent": -6.1
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase",
+    "sector": "Banking",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola",
+    "sector": "Beverages",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "sector": "Pharmaceuticals",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "XOM",
+    "name": "ExxonMobil",
+    "sector": "Oil & Gas",
+    "country": "United States",
+    "diffPercent": -2.6
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart",
+    "sector": "Retail",
+    "country": "United States",
+    "diffPercent": 1.3
+  },
+  {
+    "ticker": "V",
+    "name": "Visa",
+    "sector": "Payments",
+    "country": "United States",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "PFE",
+    "name": "Pfizer",
+    "sector": "Pharmaceuticals",
+    "country": "United States",
+    "diffPercent": -3.1
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's",
+    "sector": "Restaurants",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "NKE",
+    "name": "Nike",
+    "sector": "Apparel",
+    "country": "United States",
+    "diffPercent": -4.2
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix",
+    "sector": "Streaming",
+    "country": "United States",
+    "diffPercent": 2.8
+  },
+  {
+    "ticker": "TSM",
+    "name": "TSMC",
+    "sector": "Semiconductors",
+    "country": "Taiwan",
+    "diffPercent": 4.1
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Holding",
+    "sector": "Semiconductor Equipment",
+    "country": "Netherlands",
+    "diffPercent": 3.5
+  },
+  {
+    "ticker": "ARM",
+    "name": "Arm Holdings",
+    "sector": "Semiconductors",
+    "country": "United Kingdom",
+    "diffPercent": 5.7
+  },
+  {
+    "ticker": "SHEL",
+    "name": "Shell",
+    "sector": "Oil & Gas",
+    "country": "United Kingdom",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "ULVR",
+    "name": "Unilever",
+    "sector": "Consumer Goods",
+    "country": "United Kingdom",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "NESN",
+    "name": "Nestlé",
+    "sector": "Food",
+    "country": "Switzerland",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "NOVN",
+    "name": "Novartis",
+    "sector": "Pharmaceuticals",
+    "country": "Switzerland",
+    "diffPercent": 1.0
+  },
+  {
+    "ticker": "ROG",
+    "name": "Roche",
+    "sector": "Pharmaceuticals",
+    "country": "Switzerland",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "MC",
+    "name": "LVMH",
+    "sector": "Luxury Goods",
+    "country": "France",
+    "diffPercent": -2.2
+  },
+  {
+    "ticker": "TTE",
+    "name": "TotalEnergies",
+    "sector": "Oil & Gas",
+    "country": "France",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "AIR",
+    "name": "Airbus",
+    "sector": "Aerospace",
+    "country": "Netherlands",
+    "diffPercent": 2.0
+  },
+  {
+    "ticker": "NOVO-B",
+    "name": "Novo Nordisk",
+    "sector": "Pharmaceuticals",
+    "country": "Denmark",
+    "diffPercent": -5.1
+  },
+  {
+    "ticker": "7203",
+    "name": "Toyota",
+    "sector": "Automotive",
+    "country": "Japan",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "6758",
+    "name": "Sony Group",
+    "sector": "Consumer Electronics",
+    "country": "Japan",
+    "diffPercent": 1.7
+  },
+  {
+    "ticker": "005930",
+    "name": "Samsung Electronics",
+    "sector": "Semiconductors",
+    "country": "South Korea",
+    "diffPercent": 2.5
+  },
+  {
+    "ticker": "SPCX",
+    "name": "SpaceX",
+    "sector": "Programming Data Processing",
+    "country": "United States",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "SKHY",
+    "name": "SK hynix",
+    "sector": "Semiconductors",
+    "country": "South Korea",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "LLY",
+    "name": "Eli Lilly and Company",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -2.3
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 3.7
+  },
+  {
+    "ticker": "MA",
+    "name": "Mastercard",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "ABBV",
+    "name": "AbbVie",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco Systems",
+    "sector": "Computer Communications Equipment",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 1.4
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco Wholesale",
+    "sector": "Department/Specialty Retail Stores",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron",
+    "sector": "Integrated oil Companies",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank of America",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar",
+    "sector": "Construction/Ag Equipment/Trucks",
+    "country": "United States",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "MRK",
+    "name": "Merck & Company",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -2.7
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies",
+    "sector": "Computer Manufacturing",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "HSBC",
+    "name": "HSBC Holdings",
+    "sector": "Savings Institutions",
+    "country": "United Kingdom",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "PG",
+    "name": "Procter & Gamble",
+    "sector": "Package Goods/Cosmetics",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks",
+    "sector": "Computer peripheral equipment",
+    "country": "United States",
+    "diffPercent": 2.3
+  },
+  {
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "sector": "Consumer Electronics/Appliances",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "PM",
+    "name": "Philip Morris International",
+    "sector": "Medicinal Chemicals and Botanical Products",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -2.4
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot",
+    "sector": "Building Materials",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "MUFG",
+    "name": "Mitsubishi UFJ Financial",
+    "sector": "Commercial Banks",
+    "country": "Japan",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "RY",
+    "name": "Royal Bank Of Canada",
+    "sector": "Commercial Banks",
+    "country": "Canada",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 0.8
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "BABA",
+    "name": "Alibaba Group Holding",
+    "sector": "Business Services",
+    "country": "China",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "sector": "Computer Communications Equipment",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "SNDK",
+    "name": "Sandisk",
+    "sector": "Electronic Components",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA",
+    "sector": "Electronic Components",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova",
+    "sector": "Consumer Electronics/Appliances",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "AZN",
+    "name": "AstraZeneca",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United Kingdom",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "RTX",
+    "name": "RTX",
+    "sector": "Aerospace",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "WFC",
+    "name": "Wells Fargo & Company",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "MRVL",
+    "name": "Marvell Technology",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "CCZ",
+    "name": "Comcast Holdings ZONES",
+    "sector": "Cable & Other Pay Television Services",
+    "country": "United States",
+    "diffPercent": -2.7
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde",
+    "sector": "Major Chemicals",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "C",
+    "name": "Citigroup",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "BHP",
+    "name": "BHP Group",
+    "sector": "Coal Mining",
+    "country": "Australia",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings",
+    "sector": "Electronic Components",
+    "country": "Ireland",
+    "diffPercent": 1.0
+  },
+  {
+    "ticker": "APH",
+    "name": "Amphenol",
+    "sector": "Electrical Products",
+    "country": "United States",
+    "diffPercent": -0.0
+  },
+  {
+    "ticker": "IBM",
+    "name": "International Business Machines",
+    "sector": "Computer Manufacturing",
+    "country": "United States",
+    "diffPercent": -0.0
+  },
+  {
+    "ticker": "AXP",
+    "name": "American Express",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "SAN",
+    "name": "Banco Santander",
+    "sector": "Commercial Banks",
+    "country": "Spain",
+    "diffPercent": -2.5
+  },
+  {
+    "ticker": "QCOM",
+    "name": "QUALCOMM",
+    "sector": "Radio And Television Broadcasting And Communications Equipment",
+    "country": "United States",
+    "diffPercent": -0.0
+  },
+  {
+    "ticker": "TD",
+    "name": "Toronto Dominion Bank",
+    "sector": "Commercial Banks",
+    "country": "Canada",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "SHOP",
+    "name": "Shopify",
+    "sector": "Prepackaged Software",
+    "country": "Canada",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "VZ",
+    "name": "Verizon Communications",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 1.9
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney",
+    "sector": "Services-Misc. Amusement & Recreation",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile US",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo",
+    "sector": "Beverages",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "SCCO",
+    "name": "Southern Copper",
+    "sector": "Metal Mining",
+    "country": "United States",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "SCHW",
+    "name": "Charles Schwab",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton",
+    "sector": "Industrial Machinery/Components",
+    "country": "Ireland",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "WELL",
+    "name": "Welltower",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "BLK",
+    "name": "BlackRock",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital",
+    "sector": "Electronic Components",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "UNP",
+    "name": "Union Pacific",
+    "sector": "Railroads",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "BBVA",
+    "name": "Banco Bilbao Vizcaya Argentaria",
+    "sector": "Commercial Banks",
+    "country": "Spain",
+    "diffPercent": -2.7
+  },
+  {
+    "ticker": "NEE",
+    "name": "NextEra Energy",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "DHR",
+    "name": "Danaher",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "sector": "Integrated oil Companies",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "UBS",
+    "name": "UBS Group AG Registered",
+    "sector": "Major Banks",
+    "country": "Switzerland",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "BA",
+    "name": "Boeing",
+    "sector": "Aerospace",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "TJX",
+    "name": "TJX Companies",
+    "sector": "Clothing/Shoe/Accessory Stores",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "BUD",
+    "name": "Anheuser-Busch Inbev SA",
+    "sector": "Beverages",
+    "country": "Belgium",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical",
+    "sector": "Industrial Specialties",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber Technologies",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "NOW",
+    "name": "ServiceNow",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 3.1
+  },
+  {
+    "ticker": "MFG",
+    "name": "Mizuho Financial",
+    "sector": "Major Banks",
+    "country": "Japan",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "PBR",
+    "name": "Petrobras",
+    "sector": "Oil & Gas Production",
+    "country": "Brazil",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "GLW",
+    "name": "Corning",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": -3.1
+  },
+  {
+    "ticker": "FTNT",
+    "name": "Fortinet",
+    "sector": "Computer peripheral equipment",
+    "country": "United States",
+    "diffPercent": 1.6
+  },
+  {
+    "ticker": "BMY",
+    "name": "Bristol-Myers Squibb",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "CB",
+    "name": "Chubb",
+    "sector": "Property-Casualty Insurers",
+    "country": "Switzerland",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "NET",
+    "name": "Cloudflare",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "PLD",
+    "name": "Prologis",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "BKNG",
+    "name": "Booking",
+    "sector": "Transportation Services",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture",
+    "sector": "Business Services",
+    "country": "Ireland",
+    "diffPercent": 3.5
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster Beverage",
+    "sector": "Beverages",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "NEM",
+    "name": "Newmont",
+    "sector": "Precious Metals",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "PGR",
+    "name": "Progressive",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "PH",
+    "name": "Parker-Hannifin",
+    "sector": "Metal Fabrications",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "SNOW",
+    "name": "Snowflake",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.8
+  },
+  {
+    "ticker": "COF",
+    "name": "Capital One Financial",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "RIO",
+    "name": "Rio Tinto Plc",
+    "sector": "Metal Mining",
+    "country": "Australia",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "SMFG",
+    "name": "Sumitomo Mitsui Financial",
+    "sector": "Commercial Banks",
+    "country": "Japan",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "LMT",
+    "name": "Lockheed Martin",
+    "sector": "Military/Government/Technical",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "BTI",
+    "name": "British American Tobacco Industries",
+    "sector": "Medicinal Chemicals and Botanical Products",
+    "country": "United Kingdom",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "SPGI",
+    "name": "S&P Global",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "BMO",
+    "name": "Bank Of Montreal",
+    "sector": "Commercial Banks",
+    "country": "Canada",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "BP",
+    "name": "BP",
+    "sector": "Integrated oil Companies",
+    "country": "United Kingdom",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "HDB",
+    "name": "HDFC Bank",
+    "sector": "Commercial Banks",
+    "country": "India",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "MO",
+    "name": "Altria",
+    "sector": "Medicinal Chemicals and Botanical Products",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "VLO",
+    "name": "Valero Energy",
+    "sector": "Integrated oil Companies",
+    "country": "United States",
+    "diffPercent": -0.0
+  },
+  {
+    "ticker": "MPC",
+    "name": "Marathon Petroleum",
+    "sector": "Integrated oil Companies",
+    "country": "United States",
+    "diffPercent": 0.9
+  },
+  {
+    "ticker": "PDD",
+    "name": "PDD",
+    "sector": "Business Services",
+    "country": "China",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic",
+    "sector": "Electromedical & Electrotherapeutic Apparatus",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "CVS",
+    "name": "CVS Health",
+    "sector": "Retail-Drug Stores and Proprietary Stores",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks",
+    "sector": "Restaurants",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "SYK",
+    "name": "Stryker",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "EQNR",
+    "name": "Equinor ASA",
+    "sector": "Integrated oil Companies",
+    "country": "Norway",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "LOW",
+    "name": "Lowe's Companies",
+    "sector": "Building Materials",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "ING",
+    "name": "ING Group",
+    "sector": "Commercial Banks",
+    "country": "Netherlands",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "sector": "Integrated oil Companies",
+    "country": "United States",
+    "diffPercent": 1.2
+  },
+  {
+    "ticker": "ENB",
+    "name": "Enbridge",
+    "sector": "Natural Gas Distribution",
+    "country": "Canada",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "HOOD",
+    "name": "Robinhood Markets",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -3.2
+  },
+  {
+    "ticker": "SNY",
+    "name": "Sanofi",
+    "sector": "Pharmaceutical Preparations",
+    "country": "France",
+    "diffPercent": 1.2
+  },
+  {
+    "ticker": "FCX",
+    "name": "Freeport-McMoRan",
+    "sector": "Metal Mining",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "SPOT",
+    "name": "Spotify Technology",
+    "sector": "Broadcasting",
+    "country": "Luxembourg",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Commerce",
+    "sector": "Commercial Banks",
+    "country": "Canada",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "EQIX",
+    "name": "Equinix",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "MCK",
+    "name": "McKesson",
+    "sector": "Other Pharmaceuticals",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "TT",
+    "name": "Trane Technologies",
+    "sector": "O.E.M.",
+    "country": "Ireland",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "ASX",
+    "name": "ASE Technology Holding",
+    "sector": "Semiconductors",
+    "country": "Taiwan",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "IBN",
+    "name": "ICICI Bank",
+    "sector": "Commercial Banks",
+    "country": "India",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.0
+  },
+  {
+    "ticker": "BNY",
+    "name": "The Bank of",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "GSK",
+    "name": "GSK",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United Kingdom",
+    "diffPercent": -2.4
+  },
+  {
+    "ticker": "CNQ",
+    "name": "Canadian Natural Resources",
+    "sector": "Oil & Gas Production",
+    "country": "Canada",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "APP",
+    "name": "Applovin",
+    "sector": "Programming Data Processing",
+    "country": "United States",
+    "diffPercent": -5.0
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb",
+    "sector": "Diversified Commercial Services",
+    "country": "United States",
+    "diffPercent": 2.4
+  },
+  {
+    "ticker": "SO",
+    "name": "Southern",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "PWR",
+    "name": "Quanta Services",
+    "sector": "Engineering & Construction",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "CME",
+    "name": "CME",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.9
+  },
+  {
+    "ticker": "AEM",
+    "name": "Agnico Eagle Mines",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "VRT",
+    "name": "Vertiv Holdings LLC",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -2.8
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International",
+    "sector": "Hotels/Resorts",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "HCA",
+    "name": "HCA Healthcare",
+    "sector": "Hospital/Nursing Management",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "RACE",
+    "name": "Ferrari",
+    "sector": "Auto Manufacturing",
+    "country": "Italy",
+    "diffPercent": -2.3
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 1.9
+  },
+  {
+    "ticker": "HWM",
+    "name": "Howmet Aerospace",
+    "sector": "Metal Fabrications",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "JCI",
+    "name": "Johnson Controls International",
+    "sector": "Industrial Machinery/Components",
+    "country": "Switzerland",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -4.0
+  },
+  {
+    "ticker": "USB",
+    "name": "U.S. Bancorp",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "GD",
+    "name": "General Dynamics",
+    "sector": "Marine Transportation",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "BN",
+    "name": "Brookfield",
+    "sector": "Building operators",
+    "country": "Canada",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "DUK",
+    "name": "Duke Energy",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "PNC",
+    "name": "PNC Financial Services",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "MELI",
+    "name": "MercadoLibre",
+    "sector": "Business Services",
+    "country": "Argentina",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "LITE",
+    "name": "Lumentum",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "EMR",
+    "name": "Emerson Electric",
+    "sector": "Consumer Electronics/Appliances",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "CSX",
+    "name": "CSX",
+    "sector": "Railroads",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "E",
+    "name": "ENI S.p.A.",
+    "sector": "Oil & Gas Production",
+    "country": "Italy",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "sector": "Computer Software & Peripheral Equipment",
+    "country": "United States",
+    "diffPercent": 3.9
+  },
+  {
+    "ticker": "MMM",
+    "name": "3M",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -2.6
+  },
+  {
+    "ticker": "ELV",
+    "name": "Elevance Health",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "BX",
+    "name": "Blackstone",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "LYG",
+    "name": "Lloyds Banking Group Plc",
+    "sector": "Commercial Banks",
+    "country": "United Kingdom",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 4.8
+  },
+  {
+    "ticker": "WMB",
+    "name": "Williams Companies",
+    "sector": "Natural Gas Distribution",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "KKR",
+    "name": "KKR & Co.",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "BE",
+    "name": "Bloom Energy",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -4.9
+  },
+  {
+    "ticker": "BCS",
+    "name": "Barclays",
+    "sector": "Commercial Banks",
+    "country": "United Kingdom",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "WM",
+    "name": "Waste Management",
+    "sector": "Environmental Services",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "MRSH",
+    "name": "Marsh",
+    "sector": "Specialty Insurers",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "NGG",
+    "name": "National Grid",
+    "sector": "Natural Gas Distribution",
+    "country": "United Kingdom",
+    "diffPercent": 1.2
+  },
+  {
+    "ticker": "DASH",
+    "name": "DoorDash",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "UPS",
+    "name": "United Parcel Service",
+    "sector": "Trucking Freight/Courier Services",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "SU",
+    "name": "Suncor Energy",
+    "sector": "Integrated oil Companies",
+    "country": "Canada",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "MCO",
+    "name": "Moody's",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams",
+    "sector": "Building Materials",
+    "country": "United States",
+    "diffPercent": -2.2
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": 1.0
+  },
+  {
+    "ticker": "CTAS",
+    "name": "Cintas",
+    "sector": "Garments and Clothing",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros. Discovery",
+    "sector": "Cable & Other Pay Television Services",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "NTES",
+    "name": "NetEase",
+    "sector": "Prepackaged Software",
+    "country": "China",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast",
+    "sector": "Cable & Other Pay Television Services",
+    "country": "United States",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "ECL",
+    "name": "Ecolab",
+    "sector": "Package Goods/Cosmetics",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "EPD",
+    "name": "Enterprise Products Partners",
+    "sector": "Natural Gas Distribution",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "MRNA",
+    "name": "Moderna",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": -5.4
+  },
+  {
+    "ticker": "AMT",
+    "name": "American Tower",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -2.2
+  },
+  {
+    "ticker": "CP",
+    "name": "Canadian Pacific Kansas City",
+    "sector": "Railroads",
+    "country": "Canada",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "ROST",
+    "name": "Ross Stores",
+    "sector": "Clothing/Shoe/Accessory Stores",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "TRV",
+    "name": "The Travelers Companies",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "MSI",
+    "name": "Motorola Solutions",
+    "sector": "Radio And Television Broadcasting And Communications Equipment",
+    "country": "United States",
+    "diffPercent": -0.0
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International",
+    "sector": "Packaged Foods",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.9
+  },
+  {
+    "ticker": "ITW",
+    "name": "Illinois Tool Works",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -3.7
+  },
+  {
+    "ticker": "SLB",
+    "name": "SLB",
+    "sector": "Oilfield Services/Equipment",
+    "country": "France",
+    "diffPercent": -2.3
+  },
+  {
+    "ticker": "EOG",
+    "name": "EOG Resources",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "NWG",
+    "name": "NatWest Group",
+    "sector": "Commercial Banks",
+    "country": "United Kingdom",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "CI",
+    "name": "The Cigna Group",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "CNI",
+    "name": "Canadian National Railway",
+    "sector": "Railroads",
+    "country": "Canada",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "HLT",
+    "name": "Hilton Worldwide",
+    "sector": "Hotels/Resorts",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "TGT",
+    "name": "Target",
+    "sector": "Department/Specialty Retail Stores",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "CMI",
+    "name": "Cummins",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "RCL",
+    "name": "Royal Caribbean Cruises",
+    "sector": "Marine Transportation",
+    "country": "United States",
+    "diffPercent": 2.0
+  },
+  {
+    "ticker": "MFC",
+    "name": "Manulife Financial",
+    "sector": "Life Insurance",
+    "country": "Canada",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "NSC",
+    "name": "Norfolk Southern",
+    "sector": "Railroads",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "ORLY",
+    "name": "O'Reilly Automotive",
+    "sector": "Auto & Home Supply Stores",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "CVNA",
+    "name": "Carvana",
+    "sector": "Retail-Auto Dealers and Gas Stations",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "NOC",
+    "name": "Northrop Grumman",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -4.2
+  },
+  {
+    "ticker": "APO",
+    "name": "Apollo Global Management",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -2.5
+  },
+  {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive",
+    "sector": "Package Goods/Cosmetics",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "GM",
+    "name": "General Motors",
+    "sector": "Auto Manufacturing",
+    "country": "United States",
+    "diffPercent": -4.3
+  },
+  {
+    "ticker": "FDX",
+    "name": "FedEx",
+    "sector": "Air Freight/Delivery Services",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "KMI",
+    "name": "Kinder Morgan",
+    "sector": "Natural Gas Distribution",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "B",
+    "name": "Barrick Mining",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell International",
+    "sector": "Aerospace",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "SPG",
+    "name": "Simon Property",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "DLR",
+    "name": "Digital Realty Trust",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "AEP",
+    "name": "American Electric Power",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "MSTR",
+    "name": "Strategy",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "RSG",
+    "name": "Republic Services",
+    "sector": "Environmental Services",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "NBIS",
+    "name": "Nebius Group",
+    "sector": "Programming Data Processing",
+    "country": "Netherlands",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "AMX",
+    "name": "America Movil S.A.B. de C.V.",
+    "sector": "Telecommunications Equipment",
+    "country": "Mexico",
+    "diffPercent": -2.7
+  },
+  {
+    "ticker": "BSX",
+    "name": "Boston Scientific",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne",
+    "sector": "Electrical Products",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "URI",
+    "name": "United Rentals",
+    "sector": "Diversified Commercial Services",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "KEYS",
+    "name": "Keysight Technologies",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 0.9
+  },
+  {
+    "ticker": "APD",
+    "name": "Air Products and Chemicals",
+    "sector": "Major Chemicals",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "ALAB",
+    "name": "Astera Labs",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "UMC",
+    "name": "United Microelectronics",
+    "sector": "Semiconductors",
+    "country": "Taiwan",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "NU",
+    "name": "Nu Holdings",
+    "sector": "Consumer Services",
+    "country": "Cayman Islands",
+    "diffPercent": 2.5
+  },
+  {
+    "ticker": "TEL",
+    "name": "TE Connectivity",
+    "sector": "Electronic Components",
+    "country": "Ireland",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "WPM",
+    "name": "Wheaton Precious Metals",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors",
+    "sector": "Semiconductors",
+    "country": "Netherlands",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "TDG",
+    "name": "Transdigm Group",
+    "sector": "Military/Government/Technical",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "MET",
+    "name": "MetLife",
+    "sector": "Life Insurance",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "SE",
+    "name": "Sea",
+    "sector": "Other Consumer Services",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "NTRA",
+    "name": "Natera",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "ARGX",
+    "name": "argenx",
+    "sector": "Biological Products",
+    "country": "Netherlands",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "IMO",
+    "name": "Imperial Oil",
+    "sector": "Integrated oil Companies",
+    "country": "Canada",
+    "diffPercent": 1.0
+  },
+  {
+    "ticker": "AON",
+    "name": "Aon",
+    "sector": "Specialty Insurers",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "GWW",
+    "name": "W.W. Grainger",
+    "sector": "Office Equipment/Supplies/Services",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "sector": "Specialty Insurers",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "CVE",
+    "name": "Cenovus Energy",
+    "sector": "Oil & Gas Production",
+    "country": "Canada",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "NOK",
+    "name": "Nokia",
+    "sector": "Radio And Television Broadcasting And Communications Equipment",
+    "country": "Finland",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "FIX",
+    "name": "Comfort Systems USA",
+    "sector": "Engineering & Construction",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "RELX",
+    "name": "RELX",
+    "sector": "Business Services",
+    "country": "United Kingdom",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "TRGP",
+    "name": "Targa Resources",
+    "sector": "Natural Gas Distribution",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "PCAR",
+    "name": "PACCAR",
+    "sector": "Auto Manufacturing",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "TRP",
+    "name": "TC Energy",
+    "sector": "Natural Gas Distribution",
+    "country": "Canada",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "TAK",
+    "name": "Takeda Pharmaceutical",
+    "sector": "Pharmaceutical Preparations",
+    "country": "Japan",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "COR",
+    "name": "Cencora",
+    "sector": "Other Pharmaceuticals",
+    "country": "United States",
+    "diffPercent": -2.4
+  },
+  {
+    "ticker": "VALE",
+    "name": "VALE",
+    "sector": "Metal Mining",
+    "country": "Brazil",
+    "diffPercent": 0.8
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal",
+    "sector": "Building Materials",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "AME",
+    "name": "AMETEK",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "TFC",
+    "name": "Truist Financial",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "COHR",
+    "name": "Coherent",
+    "sector": "Electronic Components",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "ALL",
+    "name": "Allstate",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "AFL",
+    "name": "AFLAC",
+    "sector": "Accident &Health Insurance",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "LNG",
+    "name": "Cheniere Energy",
+    "sector": "Oil/Gas Transmission",
+    "country": "United States",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "CRH",
+    "name": "CRH",
+    "sector": "Building Materials",
+    "country": "Ireland",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "GRMN",
+    "name": "Garmin",
+    "sector": "Industrial Machinery/Components",
+    "country": "Switzerland",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "OXY",
+    "name": "Occidental Petroleum",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines",
+    "sector": "Air Freight/Delivery Services",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "BKR",
+    "name": "Baker Hughes",
+    "sector": "Oil and Gas Field Machinery",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "OKE",
+    "name": "ONEOK",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "D",
+    "name": "Dominion Energy",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "NUE",
+    "name": "Nucor",
+    "sector": "Steel/Iron Ore",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "CTVA",
+    "name": "Corteva",
+    "sector": "Farming/Seeds/Milling",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "CAH",
+    "name": "Cardinal Health",
+    "sector": "Other Pharmaceuticals",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "NDAQ",
+    "name": "Nasdaq",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "O",
+    "name": "Realty Income",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "SRE",
+    "name": "DBA Sempra",
+    "sector": "Natural Gas Distribution",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "MT",
+    "name": "Arcelor Mittal",
+    "sector": "Steel/Iron Ore",
+    "country": "Luxembourg",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "DVN",
+    "name": "Devon Energy",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "CIEN",
+    "name": "Ciena",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "EW",
+    "name": "Edwards Lifesciences",
+    "sector": "Industrial Specialties",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "PSA",
+    "name": "Public Storage",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase Global",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "HONA",
+    "name": "Honeywell Aerospace",
+    "sector": "Aerospace",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "BDX",
+    "name": "Becton Dickinson and Company",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies",
+    "sector": "Laboratory Analytical Instruments",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "WAB",
+    "name": "Westinghouse Air Brake Technologies",
+    "sector": "Railroads",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "ROK",
+    "name": "Rockwell Automation",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 0.9
+  },
+  {
+    "ticker": "CRWV",
+    "name": "CoreWeave",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 1.4
+  },
+  {
+    "ticker": "STT",
+    "name": "State Street",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "VMRK",
+    "name": "Vivmark Residential",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "DEO",
+    "name": "Diageo",
+    "sector": "Beverages",
+    "country": "United Kingdom",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "STM",
+    "name": "STMicroelectronics",
+    "sector": "Semiconductors",
+    "country": "Switzerland",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "AU",
+    "name": "AngloGold Ashanti",
+    "sector": "Precious Metals",
+    "country": "South Africa",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "F",
+    "name": "Ford Motor",
+    "sector": "Auto Manufacturing",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "EBAY",
+    "name": "eBay",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": 0.8
+  },
+  {
+    "ticker": "VST",
+    "name": "Vistra",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "ETR",
+    "name": "Entergy",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "VEEV",
+    "name": "Veeva Systems",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.5
+  },
+  {
+    "ticker": "AZO",
+    "name": "AutoZone",
+    "sector": "Auto & Home Supply Stores",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "TEVA",
+    "name": "Teva Pharmaceutical Industries",
+    "sector": "Pharmaceutical Preparations",
+    "country": "Israel",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "ABEV",
+    "name": "Ambev",
+    "sector": "Beverages",
+    "country": "Brazil",
+    "diffPercent": 1.4
+  },
+  {
+    "ticker": "FNV",
+    "name": "Franco-Nevada",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -4.0
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "FITB",
+    "name": "Fifth Third Bancorp",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "HUM",
+    "name": "Humana",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "MDLN",
+    "name": "Medline",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "TEAM",
+    "name": "Atlassian",
+    "sector": "Prepackaged Software",
+    "country": "Australia",
+    "diffPercent": 1.9
+  },
+  {
+    "ticker": "CARR",
+    "name": "Carrier Global",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal",
+    "sector": "Diversified Commercial Services",
+    "country": "United States",
+    "diffPercent": -2.5
+  },
+  {
+    "ticker": "TWLO",
+    "name": "Twilio",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "AMP",
+    "name": "Ameriprise Financial",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "IQV",
+    "name": "IQVIA",
+    "sector": "Commercial Physical & Biological Resarch",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "XYZ",
+    "name": "Block",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "KB",
+    "name": "KB Financial",
+    "sector": "Commercial Banks",
+    "country": "South Korea",
+    "diffPercent": -3.8
+  },
+  {
+    "ticker": "LHX",
+    "name": "L3Harris Technologies",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "XEL",
+    "name": "Xcel Energy",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "RVMD",
+    "name": "Revolution Medicines",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "RKLB",
+    "name": "Rocket Lab",
+    "sector": "Military/Government/Technical",
+    "country": "United States",
+    "diffPercent": -0.0
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.9
+  },
+  {
+    "ticker": "INFY",
+    "name": "Infosys",
+    "sector": "EDP Services",
+    "country": "India",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "VTR",
+    "name": "Ventas",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -2.2
+  },
+  {
+    "ticker": "P",
+    "name": "Everpure",
+    "sector": "Electronic Components",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "SLF",
+    "name": "Sun Life Financial",
+    "sector": "Life Insurance",
+    "country": "Canada",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "WAT",
+    "name": "Waters",
+    "sector": "Laboratory Analytical Instruments",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "FERG",
+    "name": "Ferguson Enterprises",
+    "sector": "Miscellaneous",
+    "country": "United Kingdom",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "IX",
+    "name": "ORIX",
+    "sector": "Diversified Financial Services",
+    "country": "Japan",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "HEI",
+    "name": "Heico",
+    "sector": "Aerospace",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "CBRS",
+    "name": "Cerebras Systems",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -8.9
+  },
+  {
+    "ticker": "TRI",
+    "name": "Thomson Reuters",
+    "sector": "Publishing",
+    "country": "United States",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "WDS",
+    "name": "Woodside Energy Group",
+    "sector": "Oil & Gas Production",
+    "country": "Australia",
+    "diffPercent": 2.2
+  },
+  {
+    "ticker": "EXC",
+    "name": "Exelon",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "ONC",
+    "name": "BeOne Medicines",
+    "sector": "Pharmaceutical Preparations",
+    "country": "Cayman Islands",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "CLS",
+    "name": "Celestica",
+    "sector": "Electrical Products",
+    "country": "Canada",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "ILMN",
+    "name": "Illumina",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper",
+    "sector": "Beverages",
+    "country": "United States",
+    "diffPercent": -2.2
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp",
+    "sector": "Electronic Components",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "IDXX",
+    "name": "IDEXX Laboratories",
+    "sector": "In Vitro & In Vivo Diagnostic Substances",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "HMC",
+    "name": "Honda Motor",
+    "sector": "Auto Manufacturing",
+    "country": "Japan",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "FLEX",
+    "name": "Flex",
+    "sector": "Electrical Products",
+    "country": "Singapore",
+    "diffPercent": -3.4
+  },
+  {
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill",
+    "sector": "Restaurants",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "FMX",
+    "name": "Fomento Economico Mexicano S.A.B. de C.V.",
+    "sector": "Beverages",
+    "country": "Mexico",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "LYV",
+    "name": "Live Nation Entertainment",
+    "sector": "Services-Misc. Amusement & Recreation",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "HLN",
+    "name": "Haleon",
+    "sector": "Package Goods/Cosmetics",
+    "country": "United Kingdom",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "BBD",
+    "name": "Banco Bradesco Sa",
+    "sector": "Major Banks",
+    "country": "Brazil",
+    "diffPercent": 4.8
+  },
+  {
+    "ticker": "WCN",
+    "name": "Waste Connections",
+    "sector": "Environmental Services",
+    "country": "Canada",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "PRU",
+    "name": "Prudential Financial",
+    "sector": "Life Insurance",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "MSCI",
+    "name": "MSCI",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "FER",
+    "name": "Ferrovial",
+    "sector": "Military/Government/Technical",
+    "country": "Netherlands",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "AIG",
+    "name": "American International",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.3
+  },
+  {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "ARES",
+    "name": "Ares Management",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -2.4
+  },
+  {
+    "ticker": "SYY",
+    "name": "Sysco",
+    "sector": "Food Distributors",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "ADM",
+    "name": "Archer-Daniels-Midland",
+    "sector": "Packaged Foods",
+    "country": "United States",
+    "diffPercent": -0.0
+  },
+  {
+    "ticker": "DHI",
+    "name": "D.R. Horton",
+    "sector": "Homebuilding",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "ED",
+    "name": "Consolidated Edison",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "CCJ",
+    "name": "Cameco",
+    "sector": "Other Metals and Minerals",
+    "country": "Canada",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "VOD",
+    "name": "Vodafone Group Plc",
+    "sector": "Telecommunications Equipment",
+    "country": "United Kingdom",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "YUM",
+    "name": "Yum! Brands",
+    "sector": "Restaurants",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "CBRE",
+    "name": "CBRE",
+    "sector": "Real Estate",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "SHG",
+    "name": "Shinhan Financial Group Co",
+    "sector": "Major Banks",
+    "country": "South Korea",
+    "diffPercent": -5.0
+  },
+  {
+    "ticker": "CRDO",
+    "name": "Credo Technology Group Holding",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 1.3
+  },
+  {
+    "ticker": "OKTA",
+    "name": "Okta",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.1
+  },
+  {
+    "ticker": "ODFL",
+    "name": "Old Dominion Freight Line",
+    "sector": "Trucking Freight/Courier Services",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "UAL",
+    "name": "United Airlines",
+    "sector": "Air Freight/Delivery Services",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "BAP",
+    "name": "Credicorp",
+    "sector": "Commercial Banks",
+    "country": "Peru",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "JD",
+    "name": "JD.com",
+    "sector": "Other Specialty Stores",
+    "country": "China",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "CHT",
+    "name": "Chunghwa Telecom",
+    "sector": "Telecommunications Equipment",
+    "country": "Taiwan",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "PAYX",
+    "name": "Paychex",
+    "sector": "Diversified Commercial Services",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "VIK",
+    "name": "Viking Holdings",
+    "sector": "Marine Transportation",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "KR",
+    "name": "Kroger",
+    "sector": "Food Chains",
+    "country": "United States",
+    "diffPercent": -3.6
+  },
+  {
+    "ticker": "ROP",
+    "name": "Roper Technologies",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.0
+  },
+  {
+    "ticker": "UI",
+    "name": "Ubiquiti",
+    "sector": "Radio And Television Broadcasting And Communications Equipment",
+    "country": "United States",
+    "diffPercent": 1.5
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise",
+    "sector": "Ordnance And Accessories",
+    "country": "United States",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group",
+    "sector": "Services-Misc. Amusement & Recreation",
+    "country": "United States",
+    "diffPercent": 1.2
+  },
+  {
+    "ticker": "KVUE",
+    "name": "Kenvue",
+    "sector": "Package Goods/Cosmetics",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "EC",
+    "name": "Ecopetrol",
+    "sector": "Oil & Gas Production",
+    "country": "Colombia",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "NTR",
+    "name": "Nutrien",
+    "sector": "Agricultural Chemicals",
+    "country": "Canada",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "EL",
+    "name": "Estee Lauder Companies",
+    "sector": "Package Goods/Cosmetics",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "PEG",
+    "name": "Public Service Enterprise Group",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "RPRX",
+    "name": "Royalty Pharma",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "BIIB",
+    "name": "Biogen",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "EME",
+    "name": "EMCOR",
+    "sector": "Engineering & Construction",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "HIG",
+    "name": "The Hartford Insurance",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -2.8
+  },
+  {
+    "ticker": "IRM",
+    "name": "Iron Mountain",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "ALNY",
+    "name": "Alnylam Pharmaceuticals",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -2.9
+  },
+  {
+    "ticker": "CCL",
+    "name": "Carnival",
+    "sector": "Marine Transportation",
+    "country": "United States",
+    "diffPercent": -2.3
+  },
+  {
+    "ticker": "WEC",
+    "name": "WEC Energy",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "PCG",
+    "name": "Pacific Gas & Electric",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "RKT",
+    "name": "Rocket Companies",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "DXCM",
+    "name": "DexCom",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark",
+    "sector": "Containers/Packaging",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "ALC",
+    "name": "Alcon",
+    "sector": "Ophthalmic Goods",
+    "country": "Switzerland",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "GFI",
+    "name": "Gold Fields",
+    "sector": "Precious Metals",
+    "country": "South Africa",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "QSR",
+    "name": "Restaurant Brands International",
+    "sector": "Restaurants",
+    "country": "Canada",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "TECK",
+    "name": "Teck Resources",
+    "sector": "Mining & Quarrying of Nonmetallic Minerals",
+    "country": "Canada",
+    "diffPercent": 1.4
+  },
+  {
+    "ticker": "RMD",
+    "name": "ResMed",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "STLD",
+    "name": "Steel Dynamics",
+    "sector": "Steel/Iron Ore",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "ESLT",
+    "name": "Elbit Systems",
+    "sector": "Military/Government/Technical",
+    "country": "Israel",
+    "diffPercent": -3.0
+  },
+  {
+    "ticker": "VMC",
+    "name": "Vulcan Materials",
+    "sector": "Mining & Quarrying of Nonmetallic Minerals",
+    "country": "United States",
+    "diffPercent": 0.8
+  },
+  {
+    "ticker": "HSY",
+    "name": "The Hershey",
+    "sector": "Specialty Foods",
+    "country": "United States",
+    "diffPercent": -2.4
+  },
+  {
+    "ticker": "VG",
+    "name": "Venture Global",
+    "sector": "Oil/Gas Transmission",
+    "country": "United States",
+    "diffPercent": 0.8
+  },
+  {
+    "ticker": "ACGL",
+    "name": "Arch Capital Group",
+    "sector": "Property-Casualty Insurers",
+    "country": "Bermuda",
+    "diffPercent": -2.9
+  },
+  {
+    "ticker": "MTB",
+    "name": "M&T Bank",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "NTRS",
+    "name": "Northern Trust",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "PUK",
+    "name": "Prudential Public",
+    "sector": "Life Insurance",
+    "country": "United Kingdom",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "ERIC",
+    "name": "Ericsson",
+    "sector": "Radio And Television Broadcasting And Communications Equipment",
+    "country": "Sweden",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "CNC",
+    "name": "Centene",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "RJF",
+    "name": "Raymond James Financial",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "EQT",
+    "name": "EQT",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "MTD",
+    "name": "Mettler-Toledo International",
+    "sector": "Laboratory Analytical Instruments",
+    "country": "Switzerland",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "RBLX",
+    "name": "Roblox",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.9
+  },
+  {
+    "ticker": "EXPE",
+    "name": "Expedia",
+    "sector": "Transportation Services",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "JBL",
+    "name": "Jabil",
+    "sector": "Electrical Products",
+    "country": "United States",
+    "diffPercent": -10.0
+  },
+  {
+    "ticker": "ON",
+    "name": "ON Semiconductor",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 1.2
+  },
+  {
+    "ticker": "BIDU",
+    "name": "Baidu",
+    "sector": "Programming Data Processing",
+    "country": "China",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "GEHC",
+    "name": "GE HealthCare Technologies",
+    "sector": "Medical Electronics",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "TS",
+    "name": "Tenaris",
+    "sector": "Steel/Iron Ore",
+    "country": "Luxembourg",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "IR",
+    "name": "Ingersoll Rand",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "RYAAY",
+    "name": "Ryanair Holdings",
+    "sector": "Air Freight/Delivery Services",
+    "country": "Ireland",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "ZTS",
+    "name": "Zoetis",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "MLM",
+    "name": "Martin Marietta Materials",
+    "sector": "Mining & Quarrying of Nonmetallic Minerals",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "KGC",
+    "name": "Kinross Gold",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "NMR",
+    "name": "Nomura",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "Japan",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "CCI",
+    "name": "Crown Castle",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "HPQ",
+    "name": "HP",
+    "sector": "Computer Manufacturing",
+    "country": "United States",
+    "diffPercent": 1.8
+  },
+  {
+    "ticker": "TDY",
+    "name": "Teledyne Technologies",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "MDB",
+    "name": "MongoDB",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 3.4
+  },
+  {
+    "ticker": "EXR",
+    "name": "Extra Space Storage",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "AEE",
+    "name": "Ameren",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "RDDT",
+    "name": "Reddit",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "FTS",
+    "name": "Fortis",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Super Micro Computer",
+    "sector": "Computer Manufacturing",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "KHC",
+    "name": "The Kraft Heinz",
+    "sector": "Packaged Foods",
+    "country": "United States",
+    "diffPercent": -3.1
+  },
+  {
+    "ticker": "CFG",
+    "name": "Citizens Financial",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "WSM",
+    "name": "Williams-Sonoma",
+    "sector": "Home Furnishings",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "WTW",
+    "name": "Willis Towers Watson Public",
+    "sector": "Specialty Insurers",
+    "country": "United Kingdom",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "GFS",
+    "name": "GlobalFoundries",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "HAL",
+    "name": "Halliburton",
+    "sector": "Oilfield Services/Equipment",
+    "country": "United States",
+    "diffPercent": 0.8
+  },
+  {
+    "ticker": "ZM",
+    "name": "Zoom Communications",
+    "sector": "Programming Data Processing",
+    "country": "United States",
+    "diffPercent": 2.7
+  },
+  {
+    "ticker": "ATO",
+    "name": "Atmos Energy",
+    "sector": "Oil/Gas Transmission",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox",
+    "sector": "Broadcasting",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "ROIV",
+    "name": "Roivant Sciences",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United Kingdom",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "DG",
+    "name": "Dollar General",
+    "sector": "Department/Specialty Retail Stores",
+    "country": "United States",
+    "diffPercent": -2.5
+  },
+  {
+    "ticker": "Q",
+    "name": "Qnity Electronics",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "WST",
+    "name": "West Pharmaceutical Services",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "ECHO",
+    "name": "EchoStar",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "NVT",
+    "name": "nVent Electric",
+    "sector": "Industrial Machinery/Components",
+    "country": "United Kingdom",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "PBA",
+    "name": "Pembina Pipeline",
+    "sector": "Oil & Gas Production",
+    "country": "Canada",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "ATI",
+    "name": "ATI",
+    "sector": "Steel/Iron Ore",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "AWK",
+    "name": "American Water Works",
+    "sector": "Water Supply",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "DGX",
+    "name": "Quest Diagnostics",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "TSEM",
+    "name": "Tower Semiconductor",
+    "sector": "Semiconductors",
+    "country": "Israel",
+    "diffPercent": -3.0
+  },
+  {
+    "ticker": "CPAY",
+    "name": "Corpay",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "VRSN",
+    "name": "VeriSign",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": 0.8
+  },
+  {
+    "ticker": "SYM",
+    "name": "Symbotic",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 1.3
+  },
+  {
+    "ticker": "SN",
+    "name": "SharkNinja",
+    "sector": "Consumer Electronics/Appliances",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "VICI",
+    "name": "VICI Properties",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart",
+    "sector": "Retail-Auto Dealers and Gas Stations",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "FFIV",
+    "name": "F5",
+    "sector": "Computer Communications Equipment",
+    "country": "United States",
+    "diffPercent": 1.6
+  },
+  {
+    "ticker": "DOV",
+    "name": "Dover",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "WRB",
+    "name": "W.R. Berkley",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "FE",
+    "name": "FirstEnergy",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "LH",
+    "name": "Labcorp",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "CPNG",
+    "name": "Coupang",
+    "sector": "Catalog/Specialty Distribution",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "INSM",
+    "name": "Insmed",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "PPL",
+    "name": "PPL",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": 1.0
+  },
+  {
+    "ticker": "BNTX",
+    "name": "BioNTech",
+    "sector": "Biological Products",
+    "country": "Germany",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "TCOM",
+    "name": "Trip.com Group",
+    "sector": "Business Services",
+    "country": "China",
+    "diffPercent": 1.2
+  },
+  {
+    "ticker": "INCY",
+    "name": "Incyte",
+    "sector": "Commercial Physical & Biological Resarch",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "LVS",
+    "name": "Las Vegas Sands",
+    "sector": "Hotels/Resorts",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "OTIS",
+    "name": "Otis Worldwide",
+    "sector": "Consumer Electronics/Appliances",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "CINF",
+    "name": "Cincinnati Financial",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "CNP",
+    "name": "CenterPoint Energy",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "ES",
+    "name": "Eversource Energy",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "LPLA",
+    "name": "LPL Financial",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "FISV",
+    "name": "Fiserv",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "PHG",
+    "name": "Koninklijke Philips",
+    "sector": "Medical Electronics",
+    "country": "Netherlands",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "EXPD",
+    "name": "Expeditors International of Washington",
+    "sector": "Integrated Freight & Logistics",
+    "country": "United States",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "PFG",
+    "name": "Principal Financial",
+    "sector": "Accident &Health Insurance",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "HUBB",
+    "name": "Hubbell",
+    "sector": "Electrical Products",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "GH",
+    "name": "Guardant Health",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "RBRK",
+    "name": "Rubrik",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "XYL",
+    "name": "Xylem",
+    "sector": "Fluid Controls",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "TW",
+    "name": "Tradeweb Markets",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "ENTG",
+    "name": "Entegris",
+    "sector": "Plastic Products",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "AFRM",
+    "name": "Affirm",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "ULTA",
+    "name": "Ulta Beauty",
+    "sector": "Other Specialty Stores",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "FCNCA",
+    "name": "First Citizens BancShares",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "UTHR",
+    "name": "United Therapeutics",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": 12.5
+  },
+  {
+    "ticker": "PPG",
+    "name": "PPG Industries",
+    "sector": "Paints/Coatings",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "FWONK",
+    "name": "Liberty Media",
+    "sector": "Broadcasting",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "SW",
+    "name": "Smurfit WestRock",
+    "sector": "Containers/Packaging",
+    "country": "Ireland",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "VLTO",
+    "name": "Veralto",
+    "sector": "Electrical Products",
+    "country": "United States",
+    "diffPercent": -2.4
+  },
+  {
+    "ticker": "TPR",
+    "name": "Tapestry",
+    "sector": "Apparel",
+    "country": "United States",
+    "diffPercent": 0.8
+  },
+  {
+    "ticker": "IHG",
+    "name": "Intercontinental Hotels Group",
+    "sector": "Hotels/Resorts",
+    "country": "United Kingdom",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "BSP",
+    "name": "Bending Spoons S.p.A.",
+    "sector": "Programming Data Processing",
+    "country": "Italy",
+    "diffPercent": 1.7
+  },
+  {
+    "ticker": "ASTS",
+    "name": "AST SpaceMobile",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "RF",
+    "name": "Regions Financial",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.0
+  },
+  {
+    "ticker": "ROKU",
+    "name": "Roku",
+    "sector": "Cable & Other Pay Television Services",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's General Stores",
+    "sector": "Retail-Auto Dealers and Gas Stations",
+    "country": "United States",
+    "diffPercent": 1.4
+  },
+  {
+    "ticker": "TPL",
+    "name": "Texas Pacific Land",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "CHD",
+    "name": "Church & Dwight",
+    "sector": "Package Goods/Cosmetics",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "IOT",
+    "name": "Samsara",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "TROW",
+    "name": "T. Rowe Price",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "AER",
+    "name": "AerCap Holdings",
+    "sector": "Diversified Commercial Services",
+    "country": "Netherlands",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "DRI",
+    "name": "Darden Restaurants",
+    "sector": "Restaurants",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "VRSK",
+    "name": "Verisk Analytics",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": 1.2
+  },
+  {
+    "ticker": "PHM",
+    "name": "PulteGroup",
+    "sector": "Homebuilding",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "MTSI",
+    "name": "MACOM Technology Solutions",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "RIVN",
+    "name": "Rivian Automotive",
+    "sector": "Auto Manufacturing",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "GPN",
+    "name": "Global Payments",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "KEY",
+    "name": "KeyCorp",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "DLTR",
+    "name": "Dollar Tree",
+    "sector": "Department/Specialty Retail Stores",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "L",
+    "name": "Loews",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "IFF",
+    "name": "International Flavors & Fragrances",
+    "sector": "Major Chemicals",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "MKL",
+    "name": "Markel",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "RL",
+    "name": "Ralph Lauren",
+    "sector": "Garments and Clothing",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "JBHT",
+    "name": "J.B. Hunt Transport Services",
+    "sector": "Trucking Freight/Courier Services",
+    "country": "United States",
+    "diffPercent": -2.3
+  },
+  {
+    "ticker": "CRCL",
+    "name": "Circle Internet",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "EIX",
+    "name": "Edison International",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "ARXS",
+    "name": "Arxis",
+    "sector": "Military/Government/Technical",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "XPO",
+    "name": "XPO",
+    "sector": "Transportation Services",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "THC",
+    "name": "Tenet Healthcare",
+    "sector": "Hospital/Nursing Management",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "BG",
+    "name": "Bunge",
+    "sector": "Packaged Foods",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "SNX",
+    "name": "TD SYNNEX",
+    "sector": "Computer Software & Peripheral Equipment",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "STE",
+    "name": "STERIS",
+    "sector": "Industrial Specialties",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "AMRZ",
+    "name": "Amrize",
+    "sector": "Building Materials",
+    "country": "Switzerland",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "PKG",
+    "name": "Packaging Corporation of America",
+    "sector": "Containers/Packaging",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "BRO",
+    "name": "Brown & Brown",
+    "sector": "Specialty Insurers",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "LUV",
+    "name": "Southwest Airlines",
+    "sector": "Air Freight/Delivery Services",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "VTRS",
+    "name": "Viatris",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -2.2
+  },
+  {
+    "ticker": "SOFI",
+    "name": "SoFi Technologies",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "BCH",
+    "name": "Banco De Chile",
+    "sector": "Commercial Banks",
+    "country": "Chile",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "OMC",
+    "name": "Omnicom",
+    "sector": "Advertising",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "NRG",
+    "name": "NRG Energy",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "CW",
+    "name": "Curtiss-Wright",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 1.9
+  },
+  {
+    "ticker": "RGLD",
+    "name": "Royal Gold",
+    "sector": "Precious Metals",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "USFD",
+    "name": "US Foods Holding",
+    "sector": "Food Distributors",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "DOW",
+    "name": "Dow",
+    "sector": "Major Chemicals",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "CMS",
+    "name": "CMS Energy",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "YPF",
+    "name": "YPF Sociedad Anonima",
+    "sector": "Integrated oil Companies",
+    "country": "Argentina",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "LEN",
+    "name": "Lennar",
+    "sector": "Homebuilding",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "RS",
+    "name": "Reliance",
+    "sector": "Metal Fabrications",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "SITM",
+    "name": "SiTime",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "EXE",
+    "name": "Expand Energy",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "WWD",
+    "name": "Woodward",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "AMCR",
+    "name": "Amcor",
+    "sector": "Miscellaneous manufacturing industries",
+    "country": "United Kingdom",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "STZ",
+    "name": "Constellation Brands",
+    "sector": "Beverages",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "CRS",
+    "name": "Carpenter Technology",
+    "sector": "Steel/Iron Ore",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "DINO",
+    "name": "HF Sinclair",
+    "sector": "Natural Gas Distribution",
+    "country": "United States",
+    "diffPercent": 1.6
+  },
+  {
+    "ticker": "NTNX",
+    "name": "Nutanix",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "BEKE",
+    "name": "KE",
+    "sector": "Real Estate",
+    "country": "China",
+    "diffPercent": 1.5
+  },
+  {
+    "ticker": "BCE",
+    "name": "BCE",
+    "sector": "Telecommunications Equipment",
+    "country": "Canada",
+    "diffPercent": 1.0
+  },
+  {
+    "ticker": "PAAS",
+    "name": "Pan American Silver",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "SNA",
+    "name": "Snap-On",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "GFL",
+    "name": "GFL Environmental",
+    "sector": "Environmental Services",
+    "country": "Canada",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "SBS",
+    "name": "Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp",
+    "sector": "Water Supply",
+    "country": "Brazil",
+    "diffPercent": 2.5
+  },
+  {
+    "ticker": "NI",
+    "name": "NiSource",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "LYB",
+    "name": "LyondellBasell Industries NV",
+    "sector": "Major Chemicals",
+    "country": "Netherlands",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "SQM",
+    "name": "Sociedad Quimica y Minera",
+    "sector": "Mining & Quarrying of Nonmetallic Minerals",
+    "country": "Chile",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "BBY",
+    "name": "Best Buy",
+    "sector": "Consumer Electronics/Video Chains",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "WF",
+    "name": "Woori Financial",
+    "sector": "Commercial Banks",
+    "country": "South Korea",
+    "diffPercent": -5.2
+  },
+  {
+    "ticker": "VIV",
+    "name": "Telefonica Brasil",
+    "sector": "Telecommunications Equipment",
+    "country": "Brazil",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "PKX",
+    "name": "POSCO HOLDINGS INC.",
+    "sector": "Steel/Iron Ore",
+    "country": "South Korea",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "NDSN",
+    "name": "Nordson",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "BR",
+    "name": "Broadridge Financial Solutions",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "CDE",
+    "name": "Coeur Mining",
+    "sector": "Precious Metals",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "EVRG",
+    "name": "Evergy",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "SSNC",
+    "name": "SS&C Technologies",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "ITT",
+    "name": "ITT",
+    "sector": "Fluid Controls",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "U",
+    "name": "Unity Software",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 3.0
+  },
+  {
+    "ticker": "MKSI",
+    "name": "MKS",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "LSCC",
+    "name": "Lattice Semiconductor",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "TSN",
+    "name": "Tyson Foods",
+    "sector": "Meat/Poultry/Fish",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "PR",
+    "name": "Permian Resources",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "IP",
+    "name": "International Paper",
+    "sector": "Paper",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "DD",
+    "name": "DuPont de Nemours",
+    "sector": "Major Chemicals",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "WCC",
+    "name": "WESCO International",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "CF",
+    "name": "CF Industries",
+    "sector": "Agricultural Chemicals",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "MEDP",
+    "name": "Medpace",
+    "sector": "Commercial Physical & Biological Resarch",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "GPC",
+    "name": "Genuine Parts",
+    "sector": "Automotive Aftermarket",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "ESS",
+    "name": "Essex Property Trust",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide",
+    "sector": "Integrated Freight & Logistics",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "GIS",
+    "name": "General Mills",
+    "sector": "Packaged Foods",
+    "country": "United States",
+    "diffPercent": -4.9
+  },
+  {
+    "ticker": "FTAI",
+    "name": "FTAI Aviation",
+    "sector": "Misc Corporate Leasing Services",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "MTZ",
+    "name": "MasTec",
+    "sector": "Water Sewer Pipeline Comm & Power Line Construction",
+    "country": "United States",
+    "diffPercent": 1.6
+  },
+  {
+    "ticker": "NWS",
+    "name": "News",
+    "sector": "Newspapers/Magazines",
+    "country": "United States",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "RVTY",
+    "name": "Revvity",
+    "sector": "Laboratory Analytical Instruments",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "SBAC",
+    "name": "SBA Communications",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "EWBC",
+    "name": "East West Bancorp",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "FIS",
+    "name": "Fidelity National Information Services",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "ZBH",
+    "name": "Zimmer Biomet",
+    "sector": "Industrial Specialties",
+    "country": "United States",
+    "diffPercent": -2.7
+  },
+  {
+    "ticker": "MGA",
+    "name": "Magna International",
+    "sector": "O.E.M.",
+    "country": "Canada",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "IEX",
+    "name": "IDEX",
+    "sector": "Fluid Controls",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "BURL",
+    "name": "Burlington Stores",
+    "sector": "Department/Specialty Retail Stores",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "TOST",
+    "name": "Toast",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": -4.8
+  },
+  {
+    "ticker": "IONQ",
+    "name": "IonQ",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "DT",
+    "name": "Dynatrace",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "APG",
+    "name": "APi Group",
+    "sector": "Diversified Commercial Services",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "TPG",
+    "name": "TPG",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": 1.4
+  },
+  {
+    "ticker": "SMTC",
+    "name": "Semtech",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "RCI",
+    "name": "Rogers Communication",
+    "sector": "Cable & Other Pay Television Services",
+    "country": "Canada",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "FTV",
+    "name": "Fortive",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "AEG",
+    "name": "Aegon",
+    "sector": "Life Insurance",
+    "country": "Netherlands",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "LNT",
+    "name": "Alliant Energy",
+    "sector": "Power Generation",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "NVR",
+    "name": "NVR",
+    "sector": "Homebuilding",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "CLH",
+    "name": "Clean Harbors",
+    "sector": "Environmental Services",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "OVV",
+    "name": "Ovintiv",
+    "sector": "Oil & Gas Production",
+    "country": "Canada",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "WIT",
+    "name": "Wipro",
+    "sector": "EDP Services",
+    "country": "India",
+    "diffPercent": 2.5
+  },
+  {
+    "ticker": "BEN",
+    "name": "Franklin Templeton",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "TSCO",
+    "name": "Tractor Supply",
+    "sector": "Building Materials",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "EFX",
+    "name": "Equifax",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -2.5
+  },
+  {
+    "ticker": "IREN",
+    "name": "IREN",
+    "sector": "Consumer Services",
+    "country": "Australia",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "RGA",
+    "name": "Reinsurance Group of America",
+    "sector": "Life Insurance",
+    "country": "United States",
+    "diffPercent": -2.6
+  },
+  {
+    "ticker": "CDW",
+    "name": "CDW",
+    "sector": "Catalog/Specialty Distribution",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "BMNR",
+    "name": "BitMine Immersion Technologies",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "CNH",
+    "name": "CNH Industrial",
+    "sector": "Construction/Ag Equipment/Trucks",
+    "country": "United Kingdom",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "J",
+    "name": "Jacobs Solutions",
+    "sector": "Military/Government/Technical",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "RBC",
+    "name": "RBC Bearings",
+    "sector": "Metal Fabrications",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "GIB",
+    "name": "CGI",
+    "sector": "Professional Services",
+    "country": "Canada",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "DOCN",
+    "name": "DigitalOcean",
+    "sector": "Programming Data Processing",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "INVH",
+    "name": "Invitation Homes",
+    "sector": "Real Estate",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "FUTU",
+    "name": "Futu Holdings",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "Hong Kong",
+    "diffPercent": -2.2
+  },
+  {
+    "ticker": "HST",
+    "name": "Host Hotels & Resorts",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "LDOS",
+    "name": "Leidos",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "AKAM",
+    "name": "Akamai Technologies",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "PTC",
+    "name": "PTC",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.0
+  },
+  {
+    "ticker": "FN",
+    "name": "Fabrinet",
+    "sector": "Telecommunications Equipment",
+    "country": "Cayman Islands",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "ONTO",
+    "name": "Onto Innovation",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 1.0
+  },
+  {
+    "ticker": "STRL",
+    "name": "Sterling Infrastructure",
+    "sector": "Military/Government/Technical",
+    "country": "United States",
+    "diffPercent": -2.6
+  },
+  {
+    "ticker": "JAZZ",
+    "name": "Jazz Pharmaceuticals",
+    "sector": "Pharmaceutical Preparations",
+    "country": "Ireland",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "ASND",
+    "name": "Ascendis Pharma A/S",
+    "sector": "Pharmaceutical Preparations",
+    "country": "Denmark",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "SOLV",
+    "name": "Solventum",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "TLN",
+    "name": "Talen Energy",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "ZTO",
+    "name": "ZTO Express",
+    "sector": "Trucking Freight/Courier Services",
+    "country": "China",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "H",
+    "name": "Hyatt Hotels",
+    "sector": "Hotels/Resorts",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "KIM",
+    "name": "Kimco Realty",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "TEM",
+    "name": "Tempus AI",
+    "sector": "Programming Data Processing",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "BALL",
+    "name": "Ball",
+    "sector": "Containers/Packaging",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "RBA",
+    "name": "RB Global",
+    "sector": "Business Services",
+    "country": "Canada",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "CRBG",
+    "name": "Corebridge Financial",
+    "sector": "Life Insurance",
+    "country": "United States",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "WPC",
+    "name": "W. P. Carey",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "EMA",
+    "name": "Emera",
+    "sector": "Central",
+    "country": "Canada",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "JHX",
+    "name": "James Hardie Industries",
+    "sector": "Building Materials",
+    "country": "Ireland",
+    "diffPercent": 0.8
+  },
+  {
+    "ticker": "LAMR",
+    "name": "Lamar Advertising",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "TIGO",
+    "name": "Millicom International Cellular",
+    "sector": "Telecommunications Equipment",
+    "country": "Luxembourg",
+    "diffPercent": -5.0
+  },
+  {
+    "ticker": "APA",
+    "name": "APA",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "ROL",
+    "name": "Rollins",
+    "sector": "Diversified Commercial Services",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "EXEL",
+    "name": "Exelixis",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "LOGI",
+    "name": "Logitech International",
+    "sector": "Computer peripheral equipment",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "WMG",
+    "name": "Warner Music Group",
+    "sector": "Services-Misc. Amusement & Recreation",
+    "country": "United States",
+    "diffPercent": -0.0
+  },
+  {
+    "ticker": "LECO",
+    "name": "Lincoln Electric",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "NBIX",
+    "name": "Neurocrine Biosciences",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": 2.5
+  },
+  {
+    "ticker": "CX",
+    "name": "Cemex S.A.B. de C.V.",
+    "sector": "Building Materials",
+    "country": "Mexico",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "PFGC",
+    "name": "Performance Food Group",
+    "sector": "Food Distributors",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "VNOM",
+    "name": "Viper Energy",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "LTM",
+    "name": "LATAM Airlines Group",
+    "sector": "Air Freight/Delivery Services",
+    "country": "Chile",
+    "diffPercent": -2.3
+  },
+  {
+    "ticker": "SGI",
+    "name": "Somnigroup International",
+    "sector": "Home Furnishings",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "NLY",
+    "name": "Annaly Capital Management",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -7.0
+  },
+  {
+    "ticker": "OWL",
+    "name": "Blue Owl Capital",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "PNFP",
+    "name": "Pinnacle Financial Partners",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "CG",
+    "name": "The Carlyle",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "ARMK",
+    "name": "Aramark",
+    "sector": "Restaurants",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "CRL",
+    "name": "Charles River Laboratories International",
+    "sector": "Commercial Physical & Biological Resarch",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "YUMC",
+    "name": "Yum China",
+    "sector": "Restaurants",
+    "country": "United States",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "KEP",
+    "name": "Korea Electric Power",
+    "sector": "Central",
+    "country": "South Korea",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "W",
+    "name": "Wayfair",
+    "sector": "Catalog/Specialty Distribution",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "OHI",
+    "name": "Omega Healthcare Investors",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "WSE",
+    "name": "Wise Group",
+    "sector": "Diversified Commercial Services",
+    "country": "United Kingdom",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "EG",
+    "name": "Everest Group",
+    "sector": "Property-Casualty Insurers",
+    "country": "Bermuda",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "JLL",
+    "name": "Jones Lang LaSalle",
+    "sector": "Real Estate",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "EQH",
+    "name": "Equitable",
+    "sector": "Specialty Insurers",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "UNM",
+    "name": "Unum Group",
+    "sector": "Accident &Health Insurance",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "DOC",
+    "name": "Healthpeak Properties",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "WY",
+    "name": "Weyerhaeuser",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -2.6
+  },
+  {
+    "ticker": "ARCC",
+    "name": "Ares Capital",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "MAA",
+    "name": "Mid-America Apartment Communities",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "EMBJ",
+    "name": "Embraer",
+    "sector": "Aerospace",
+    "country": "Brazil",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "AGI",
+    "name": "Alamos Gold",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "INIO",
+    "name": "INNIO",
+    "sector": "Metal Fabrications",
+    "country": "Germany",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "SUI",
+    "name": "Sun Communities",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "SMMT",
+    "name": "Summit Therapeutics",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": 3.2
+  },
+  {
+    "ticker": "CACI",
+    "name": "CACI International",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "CET",
+    "name": "Central Securities",
+    "sector": "Finance/Investors Services",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "MLI",
+    "name": "Mueller Industries",
+    "sector": "Metal Fabrications",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "SKM",
+    "name": "SK Telecom",
+    "sector": "Telecommunications Equipment",
+    "country": "South Korea",
+    "diffPercent": -2.8
+  },
+  {
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "TU",
+    "name": "Telus",
+    "sector": "Telecommunications Equipment",
+    "country": "Canada",
+    "diffPercent": 2.8
+  },
+  {
+    "ticker": "VICR",
+    "name": "Vicor",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "TRMB",
+    "name": "Trimble",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "IVZ",
+    "name": "Invesco",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "MAS",
+    "name": "Masco",
+    "sector": "Industrial Specialties",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "ULS",
+    "name": "UL Solutions",
+    "sector": "Precision Instruments",
+    "country": "United States",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "RNR",
+    "name": "RenaissanceRe Holdings",
+    "sector": "Property-Casualty Insurers",
+    "country": "Bermuda",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "GEN",
+    "name": "Gen Digital",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 5.6
+  },
+  {
+    "ticker": "REG",
+    "name": "Regency Centers",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "HTHT",
+    "name": "H World Group",
+    "sector": "Hotels/Resorts",
+    "country": "China",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "PAG",
+    "name": "Penske Automotive",
+    "sector": "Retail-Auto Dealers and Gas Stations",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "TXT",
+    "name": "Textron",
+    "sector": "Aerospace",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "CHKP",
+    "name": "Check Point Software Technologies",
+    "sector": "Prepackaged Software",
+    "country": "Israel",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "ALLE",
+    "name": "Allegion",
+    "sector": "Diversified Commercial Services",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "FLUT",
+    "name": "Flutter Entertainment",
+    "sector": "Programming Data Processing",
+    "country": "Ireland",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "TYL",
+    "name": "Tyler Technologies",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "ICLR",
+    "name": "ICON",
+    "sector": "Commercial Physical & Biological Resarch",
+    "country": "Ireland",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "AMKR",
+    "name": "Amkor Technology",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -3.3
+  },
+  {
+    "ticker": "AIZ",
+    "name": "Assurant",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "EQX",
+    "name": "Equinox Gold",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -2.5
+  },
+  {
+    "ticker": "TTMI",
+    "name": "TTM Technologies",
+    "sector": "Electrical Products",
+    "country": "United States",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "AVY",
+    "name": "Avery Dennison",
+    "sector": "Containers/Packaging",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "BBIO",
+    "name": "BridgeBio Pharma",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "SWKS",
+    "name": "Skyworks Solutions",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -2.9
+  },
+  {
+    "ticker": "TWST",
+    "name": "Twist Bioscience",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": 3.8
+  },
+  {
+    "ticker": "FICO",
+    "name": "Fair Isaac",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -4.1
+  },
+  {
+    "ticker": "CSL",
+    "name": "Carlisle Companies",
+    "sector": "Specialty Chemicals",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "IESC",
+    "name": "IES",
+    "sector": "Engineering & Construction",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "GRAB",
+    "name": "Grab Holdings",
+    "sector": "Business Services",
+    "country": "Singapore",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "GL",
+    "name": "Globe Life",
+    "sector": "Life Insurance",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "CHTR",
+    "name": "Charter Communications",
+    "sector": "Cable & Other Pay Television Services",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "SJM",
+    "name": "The J.M. Smucker",
+    "sector": "Packaged Foods",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "QNT",
+    "name": "Quantinuum",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "STLA",
+    "name": "Stellantis",
+    "sector": "Auto Manufacturing",
+    "country": "United Kingdom",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "TLK",
+    "name": "PT Telekomunikasi Indonesia Tbk",
+    "sector": "Telecommunications Equipment",
+    "country": "Indonesia",
+    "diffPercent": -3.4
+  },
+  {
+    "ticker": "RPM",
+    "name": "RPM International",
+    "sector": "Paints/Coatings",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "BWXT",
+    "name": "BWX Technologies",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "DOCU",
+    "name": "DocuSign",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "PEN",
+    "name": "Penumbra",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "HALO",
+    "name": "Halozyme Therapeutics",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "FMS",
+    "name": "Fresenius Medical Care",
+    "sector": "Misc Health and Biotechnology Services",
+    "country": "Germany",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "WSO",
+    "name": "Watsco",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "ALB",
+    "name": "Albemarle",
+    "sector": "Major Chemicals",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "TME",
+    "name": "Tencent Music Entertainment Group",
+    "sector": "Broadcasting",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "MKC",
+    "name": "McCormick & Company",
+    "sector": "Packaged Foods",
+    "country": "United States",
+    "diffPercent": -4.1
+  },
+  {
+    "ticker": "CORT",
+    "name": "Corcept Therapeutics",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "GGG",
+    "name": "Graco",
+    "sector": "Fluid Controls",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "GME",
+    "name": "GameStop",
+    "sector": "Electronics Distribution",
+    "country": "United States",
+    "diffPercent": 3.7
+  },
+  {
+    "ticker": "TOL",
+    "name": "Toll Brothers",
+    "sector": "Homebuilding",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "BAX",
+    "name": "Baxter International",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": 2.2
+  },
+  {
+    "ticker": "HAS",
+    "name": "Hasbro",
+    "sector": "Recreational Games/Products/Toys",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "SEIC",
+    "name": "SEI Investments",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "LII",
+    "name": "Lennox International",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "NVMI",
+    "name": "Nova",
+    "sector": "Electronic Components",
+    "country": "Israel",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "BWA",
+    "name": "BorgWarner",
+    "sector": "O.E.M.",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "PAC",
+    "name": "Grupo Aeroportuario del Pacifico",
+    "sector": "Aerospace",
+    "country": "Mexico",
+    "diffPercent": -2.4
+  },
+  {
+    "ticker": "GNRC",
+    "name": "Generac Holdlings",
+    "sector": "Metal Fabrications",
+    "country": "United States",
+    "diffPercent": -2.5
+  },
+  {
+    "ticker": "AIT",
+    "name": "Applied Industrial Technologies",
+    "sector": "Industrial Specialties",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "DTM",
+    "name": "DT Midstream",
+    "sector": "Natural Gas Distribution",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "CNA",
+    "name": "CNA Financial",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -2.4
+  },
+  {
+    "ticker": "QXO",
+    "name": "QXO",
+    "sector": "Building Materials",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "GDDY",
+    "name": "GoDaddy",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": 1.5
+  },
+  {
+    "ticker": "FIVE",
+    "name": "Five Below",
+    "sector": "Department/Specialty Retail Stores",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "EHC",
+    "name": "Encompass Health",
+    "sector": "Hospital/Nursing Management",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "FROG",
+    "name": "JFrog",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 7.4
+  },
+  {
+    "ticker": "AHR",
+    "name": "American Healthcare REIT",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "DKS",
+    "name": "Dick's Sporting Goods",
+    "sector": "Other Specialty Stores",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "HBM",
+    "name": "Hudbay Minerals",
+    "sector": "Metal Mining",
+    "country": "Canada",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "NXT",
+    "name": "Nextpower",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "WTS",
+    "name": "Watts Water Technologies",
+    "sector": "Metal Fabrications",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "CR",
+    "name": "Crane",
+    "sector": "Metal Fabrications",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "IT",
+    "name": "Gartner",
+    "sector": "Other Consumer Services",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "TXG",
+    "name": "10x Genomics",
+    "sector": "Laboratory Analytical Instruments",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "TRU",
+    "name": "TransUnion",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -4.9
+  },
+  {
+    "ticker": "UHAL",
+    "name": "U-Haul Holding",
+    "sector": "Rental/Leasing Companies",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "GWRE",
+    "name": "Guidewire Software",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "FORM",
+    "name": "FormFactor",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 9.6
+  },
+  {
+    "ticker": "MDGL",
+    "name": "Madrigal Pharmaceuticals",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "SAIL",
+    "name": "SailPoint",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "BJ",
+    "name": "BJ's Wholesale Club",
+    "sector": "Department/Specialty Retail Stores",
+    "country": "United States",
+    "diffPercent": -3.7
+  },
+  {
+    "ticker": "BMRN",
+    "name": "BioMarin Pharmaceutical",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "PSKY",
+    "name": "Paramount Skydance",
+    "sector": "Broadcasting",
+    "country": "United States",
+    "diffPercent": 3.4
+  },
+  {
+    "ticker": "MANH",
+    "name": "Manhattan Associates",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "RMBS",
+    "name": "Rambus",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 3.5
+  },
+  {
+    "ticker": "ARW",
+    "name": "Arrow Electronics",
+    "sector": "Electronic Components",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "SANM",
+    "name": "Sanmina",
+    "sector": "Electrical Products",
+    "country": "United States",
+    "diffPercent": -3.5
+  },
+  {
+    "ticker": "CCK",
+    "name": "Crown",
+    "sector": "Containers/Packaging",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "ALLY",
+    "name": "Ally Financial",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "HL",
+    "name": "Hecla Mining",
+    "sector": "Mining & Quarrying of Nonmetallic Minerals",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "FPS",
+    "name": "Forgent Power Solutions",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "TECH",
+    "name": "Bio-Techne",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "AFG",
+    "name": "American Financial",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "ELS",
+    "name": "Equity Lifestyle Properties",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "SNN",
+    "name": "Smith & Nephew SNATS",
+    "sector": "Industrial Specialties",
+    "country": "United Kingdom",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "AEIS",
+    "name": "Advanced Energy Industries",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "PNW",
+    "name": "Pinnacle West Capital",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "HMY",
+    "name": "Harmony Gold Mining",
+    "sector": "Precious Metals",
+    "country": "South Africa",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "FIG",
+    "name": "Figma",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 1.4
+  },
+  {
+    "ticker": "ELAN",
+    "name": "Elanco Animal Health",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "DVA",
+    "name": "DaVita",
+    "sector": "Misc Health and Biotechnology Services",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "WTRG",
+    "name": "Essential Utilities",
+    "sector": "Water Supply",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "AUR",
+    "name": "Aurora Innovation",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": 2.8
+  },
+  {
+    "ticker": "CSGP",
+    "name": "CoStar",
+    "sector": "Real Estate",
+    "country": "United States",
+    "diffPercent": 1.7
+  },
+  {
+    "ticker": "AA",
+    "name": "Alcoa",
+    "sector": "Aluminum",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "GLPI",
+    "name": "Gaming and Leisure Properties",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "HRL",
+    "name": "Hormel Foods",
+    "sector": "Meat/Poultry/Fish",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "FRO",
+    "name": "Frontline Plc",
+    "sector": "Marine Transportation",
+    "country": "Bermuda",
+    "diffPercent": 0.7
+  },
+  {
+    "ticker": "AMH",
+    "name": "American Homes 4 Rent",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "FHN",
+    "name": "First Horizon",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "XP",
+    "name": "XP",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "Brazil",
+    "diffPercent": 3.6
+  },
+  {
+    "ticker": "SUZ",
+    "name": "Suzano",
+    "sector": "Paper",
+    "country": "Brazil",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "UDR",
+    "name": "UDR",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "LFUS",
+    "name": "Littelfuse",
+    "sector": "Electrical Products",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "AGNC",
+    "name": "AGNC Investment",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -2.8
+  },
+  {
+    "ticker": "COO",
+    "name": "The Cooper Companies",
+    "sector": "Ophthalmic Goods",
+    "country": "United States",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "GSAT",
+    "name": "Globalstar",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "PINS",
+    "name": "Pinterest",
+    "sector": "Programming Data Processing",
+    "country": "United States",
+    "diffPercent": 1.9
+  },
+  {
+    "ticker": "FRHC",
+    "name": "Freedom Holding",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "Kazakhstan",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "TX",
+    "name": "Ternium",
+    "sector": "Steel/Iron Ore",
+    "country": "Luxembourg",
+    "diffPercent": 1.6
+  },
+  {
+    "ticker": "DECK",
+    "name": "Deckers Outdoor",
+    "sector": "Shoe Manufacturing",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "PAYP",
+    "name": "PayPay",
+    "sector": "Business Services",
+    "country": "Japan",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "AES",
+    "name": "The AES",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "EGP",
+    "name": "EastGroup Properties",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -2.6
+  },
+  {
+    "ticker": "HUT",
+    "name": "Hut 8",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": -7.3
+  },
+  {
+    "ticker": "SF",
+    "name": "Stifel Financial",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "RDY",
+    "name": "Dr. Reddy's Laboratories",
+    "sector": "Pharmaceutical Preparations",
+    "country": "India",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "HII",
+    "name": "Huntington Ingalls Industries",
+    "sector": "Marine Transportation",
+    "country": "United States",
+    "diffPercent": 2.9
+  },
+  {
+    "ticker": "IAG",
+    "name": "Iamgold",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "DDS",
+    "name": "Dillard's",
+    "sector": "Department/Specialty Retail Stores",
+    "country": "United States",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "SCI",
+    "name": "Service Corporation International",
+    "sector": "Other Consumer Services",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "FNF",
+    "name": "Fidelity National Financial",
+    "sector": "Specialty Insurers",
+    "country": "United States",
+    "diffPercent": -6.1
+  },
+  {
+    "ticker": "KNX",
+    "name": "Knight-Swift Transportation",
+    "sector": "Trucking Freight/Courier Services",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "VIAV",
+    "name": "Viavi Solutions",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "RRX",
+    "name": "Regal Rexnord",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "LI",
+    "name": "Li Auto",
+    "sector": "Auto Manufacturing",
+    "country": "China",
+    "diffPercent": 1.2
+  },
+  {
+    "ticker": "ALGN",
+    "name": "Align Technology",
+    "sector": "Industrial Specialties",
+    "country": "United States",
+    "diffPercent": 0.9
+  },
+  {
+    "ticker": "UHS",
+    "name": "Universal Health Services",
+    "sector": "Hospital/Nursing Management",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "AR",
+    "name": "Antero Resources",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "TXRH",
+    "name": "Texas Roadhouse",
+    "sector": "Restaurants",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "CART",
+    "name": "Maplebear",
+    "sector": "Business Services",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "NYT",
+    "name": "New York Times",
+    "sector": "Newspapers/Magazines",
+    "country": "United States",
+    "diffPercent": 2.2
+  },
+  {
+    "ticker": "HUBS",
+    "name": "HubSpot",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 3.7
+  },
+  {
+    "ticker": "CGNX",
+    "name": "Cognex",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": 1.6
+  },
+  {
+    "ticker": "AVTR",
+    "name": "Avantor",
+    "sector": "Laboratory Analytical Instruments",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "LULU",
+    "name": "lululemon athletica inc.",
+    "sector": "Apparel",
+    "country": "Canada",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "ERIE",
+    "name": "Erie Indemnity",
+    "sector": "Specialty Insurers",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "QRVO",
+    "name": "Qorvo",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "BIO",
+    "name": "Bio-Rad Laboratories",
+    "sector": "Laboratory Analytical Instruments",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "DCI",
+    "name": "Donaldson",
+    "sector": "Pollution Control Equipment",
+    "country": "United States",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "CHYM",
+    "name": "Chime Financial",
+    "sector": "Consumer Services",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "EGO",
+    "name": "Eldorado Gold",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -1.1
+  },
+  {
+    "ticker": "GMED",
+    "name": "Globus Medical",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "JKHY",
+    "name": "Jack Henry & Associates",
+    "sector": "EDP Services",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "ENSG",
+    "name": "The Ensign",
+    "sector": "Hospital/Nursing Management",
+    "country": "United States",
+    "diffPercent": -2.0
+  },
+  {
+    "ticker": "IBRX",
+    "name": "ImmunityBio",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": 6.9
+  },
+  {
+    "ticker": "RTO",
+    "name": "Rentokil Initial",
+    "sector": "Other Consumer Services",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "MOD",
+    "name": "Modine Manufacturing",
+    "sector": "O.E.M.",
+    "country": "United States",
+    "diffPercent": 1.9
+  },
+  {
+    "ticker": "BPOP",
+    "name": "Popular",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "DPZ",
+    "name": "Domino's Pizza",
+    "sector": "Food Distributors",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "EVR",
+    "name": "Evercore",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "UMBF",
+    "name": "UMB Financial",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "MOH",
+    "name": "Molina Healthcare",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "BRKR",
+    "name": "Bruker",
+    "sector": "Laboratory Analytical Instruments",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "TFII",
+    "name": "TFI International",
+    "sector": "Trucking Freight/Courier Services",
+    "country": "Canada",
+    "diffPercent": -1.6
+  },
+  {
+    "ticker": "KRYS",
+    "name": "Krystal Biotech",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "PAYC",
+    "name": "Paycom Software",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "CLX",
+    "name": "Clorox",
+    "sector": "Specialty Chemicals",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "DRS",
+    "name": "Leonardo DRS",
+    "sector": "Industrial Machinery/Components",
+    "country": "Israel",
+    "diffPercent": -0.3
+  },
+  {
+    "ticker": "MSGS",
+    "name": "Madison Square Garden Sports",
+    "sector": "Services-Misc. Amusement & Recreation",
+    "country": "United States",
+    "diffPercent": -2.1
+  },
+  {
+    "ticker": "BXP",
+    "name": "BXP",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "CPT",
+    "name": "Camden Property Trust",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "VSAT",
+    "name": "ViaSat",
+    "sector": "Telecommunications Equipment",
+    "country": "United States",
+    "diffPercent": 1.9
+  },
+  {
+    "ticker": "GKOS",
+    "name": "Glaukos",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": 3.6
+  },
+  {
+    "ticker": "ENLT",
+    "name": "Enlight Renewable Energy",
+    "sector": "Central",
+    "country": "Israel",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "AXSM",
+    "name": "Axsome Therapeutics",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "PSO",
+    "name": "Pearson Plc",
+    "sector": "Books",
+    "country": "United Kingdom",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "SSB",
+    "name": "SouthState Bank",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "BSY",
+    "name": "Bentley Systems",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 2.7
+  },
+  {
+    "ticker": "ESTC",
+    "name": "Elastic",
+    "sector": "Prepackaged Software",
+    "country": "United States",
+    "diffPercent": 3.3
+  },
+  {
+    "ticker": "FDS",
+    "name": "FactSet Research Systems",
+    "sector": "Programming Data Processing",
+    "country": "United States",
+    "diffPercent": 3.8
+  },
+  {
+    "ticker": "DAR",
+    "name": "Darling Ingredients",
+    "sector": "Packaged Foods",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "AM",
+    "name": "Antero Midstream",
+    "sector": "Natural Gas Distribution",
+    "country": "United States",
+    "diffPercent": -0.4
+  },
+  {
+    "ticker": "WTFC",
+    "name": "Wintrust Financial",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "WMS",
+    "name": "Advanced Drainage Systems",
+    "sector": "Containers/Packaging",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "OSCR",
+    "name": "Oscar Health",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": 3.6
+  },
+  {
+    "ticker": "SIMO",
+    "name": "Silicon Motion Technology",
+    "sector": "Semiconductors",
+    "country": "Taiwan",
+    "diffPercent": 1.4
+  },
+  {
+    "ticker": "CFR",
+    "name": "Cullen/Frost Bankers",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "RYAN",
+    "name": "Ryan Specialty",
+    "sector": "Specialty Insurers",
+    "country": "United States",
+    "diffPercent": -2.2
+  },
+  {
+    "ticker": "AMG",
+    "name": "Affiliated Managers",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "DKNG",
+    "name": "DraftKings",
+    "sector": "Services-Misc. Amusement & Recreation",
+    "country": "United States",
+    "diffPercent": -3.0
+  },
+  {
+    "ticker": "ONB",
+    "name": "Old National Bancorp",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "RGEN",
+    "name": "Repligen",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "OGE",
+    "name": "OGE Energy",
+    "sector": "Central",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "HSIC",
+    "name": "Henry Schein",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "ALSN",
+    "name": "Allison Transmission",
+    "sector": "O.E.M.",
+    "country": "United States",
+    "diffPercent": 0.2
+  },
+  {
+    "ticker": "GGB",
+    "name": "Gerdau",
+    "sector": "Steel/Iron Ore",
+    "country": "Brazil",
+    "diffPercent": 1.7
+  },
+  {
+    "ticker": "KYMR",
+    "name": "Kymera Therapeutics",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": 1.2
+  },
+  {
+    "ticker": "FLS",
+    "name": "Flowserve",
+    "sector": "Fluid Controls",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "AYI",
+    "name": "Acuity",
+    "sector": "Building Products",
+    "country": "United States",
+    "diffPercent": 0.3
+  },
+  {
+    "ticker": "MUSA",
+    "name": "Murphy USA",
+    "sector": "Retail-Auto Dealers and Gas Stations",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "ELPC",
+    "name": "Companhia Paranaense de Energia",
+    "sector": "Central",
+    "country": "Brazil",
+    "diffPercent": 2.0
+  },
+  {
+    "ticker": "ARWR",
+    "name": "Arrowhead Pharmaceuticals",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -1.2
+  },
+  {
+    "ticker": "OC",
+    "name": "Owens Corning",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "MTCH",
+    "name": "Match",
+    "sector": "Programming Data Processing",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "CYTK",
+    "name": "Cytokinetics",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "FCFS",
+    "name": "FirstCash",
+    "sector": "Other Specialty Stores",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "XPEV",
+    "name": "XPeng",
+    "sector": "Auto Manufacturing",
+    "country": "China",
+    "diffPercent": 0.9
+  },
+  {
+    "ticker": "ZION",
+    "name": "Zions Bancorporation N.A.",
+    "sector": "Major Banks",
+    "country": "United States",
+    "diffPercent": 0.1
+  },
+  {
+    "ticker": "KT",
+    "name": "KT",
+    "sector": "Telecommunications Equipment",
+    "country": "South Korea",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "SNAP",
+    "name": "Snap",
+    "sector": "Programming Data Processing",
+    "country": "United States",
+    "diffPercent": 1.1
+  },
+  {
+    "ticker": "TTC",
+    "name": "Toro",
+    "sector": "Tools/Hardware",
+    "country": "United States",
+    "diffPercent": -1.0
+  },
+  {
+    "ticker": "PBF",
+    "name": "PBF Energy",
+    "sector": "Integrated oil Companies",
+    "country": "United States",
+    "diffPercent": 2.3
+  },
+  {
+    "ticker": "PTGX",
+    "name": "Protagonist Therapeutics",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "PODD",
+    "name": "Insulet",
+    "sector": "Medical/Dental Instruments",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "QGEN",
+    "name": "Qiagen",
+    "sector": "Biological Products",
+    "country": "Netherlands",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "ORI",
+    "name": "Old Republic International",
+    "sector": "Property-Casualty Insurers",
+    "country": "United States",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "SSL",
+    "name": "Sasol",
+    "sector": "Oil & Gas Production",
+    "country": "South Africa",
+    "diffPercent": -0.2
+  },
+  {
+    "ticker": "LLYVK",
+    "name": "Liberty Live",
+    "sector": "Services-Misc. Amusement & Recreation",
+    "country": "United States",
+    "diffPercent": -1.9
+  },
+  {
+    "ticker": "SOLS",
+    "name": "Solstice Advanced Materials",
+    "sector": "Major Chemicals",
+    "country": "United States",
+    "diffPercent": 0.6
+  },
+  {
+    "ticker": "VMI",
+    "name": "Valmont Industries",
+    "sector": "Metal Fabrications",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "APTV",
+    "name": "Aptiv",
+    "sector": "O.E.M.",
+    "country": "United Kingdom",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "LTH",
+    "name": "Life Time Group",
+    "sector": "Hotels/Resorts",
+    "country": "United States",
+    "diffPercent": -0.5
+  },
+  {
+    "ticker": "SAIA",
+    "name": "Saia",
+    "sector": "Trucking Freight/Courier Services",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "GLXY",
+    "name": "Galaxy Digital",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "JEF",
+    "name": "Jefferies Financial",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "AAL",
+    "name": "American Airlines",
+    "sector": "Air Freight/Delivery Services",
+    "country": "United States",
+    "diffPercent": -1.8
+  },
+  {
+    "ticker": "ESI",
+    "name": "Element Solutions",
+    "sector": "Major Chemicals",
+    "country": "United States",
+    "diffPercent": 0.9
+  },
+  {
+    "ticker": "HLI",
+    "name": "Houlihan Lokey",
+    "sector": "Investment Managers",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "JXN",
+    "name": "Jackson Financial",
+    "sector": "Life Insurance",
+    "country": "United States",
+    "diffPercent": -1.5
+  },
+  {
+    "ticker": "R",
+    "name": "Ryder System",
+    "sector": "Rental/Leasing Companies",
+    "country": "United States",
+    "diffPercent": -1.3
+  },
+  {
+    "ticker": "SIRI",
+    "name": "SiriusXM",
+    "sector": "Broadcasting",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "AG",
+    "name": "First Majestic Silver",
+    "sector": "Precious Metals",
+    "country": "Canada",
+    "diffPercent": -2.2
+  },
+  {
+    "ticker": "CAI",
+    "name": "Caris Life Sciences",
+    "sector": "Medical Specialities",
+    "country": "United States",
+    "diffPercent": -2.9
+  },
+  {
+    "ticker": "RRC",
+    "name": "Range Resources",
+    "sector": "Oil & Gas Production",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "CTRE",
+    "name": "CareTrust REIT",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -1.7
+  },
+  {
+    "ticker": "EDU",
+    "name": "New Oriental Education & Technology",
+    "sector": "Other Consumer Services",
+    "country": "China",
+    "diffPercent": 1.9
+  },
+  {
+    "ticker": "NIO",
+    "name": "NIO",
+    "sector": "Auto Manufacturing",
+    "country": "United States",
+    "diffPercent": 0.9
+  },
+  {
+    "ticker": "YMM",
+    "name": "Full Truck Alliance",
+    "sector": "Prepackaged Software",
+    "country": "China",
+    "diffPercent": 0.0
+  },
+  {
+    "ticker": "VIRT",
+    "name": "Virtu Financial",
+    "sector": "Investment Bankers/Brokers/Service",
+    "country": "United States",
+    "diffPercent": 2.6
+  },
+  {
+    "ticker": "VOYA",
+    "name": "Voya Financial",
+    "sector": "Life Insurance",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "TIMB",
+    "name": "TIM",
+    "sector": "Telecommunications Equipment",
+    "country": "Brazil",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "TGTX",
+    "name": "TG Therapeutics",
+    "sector": "Pharmaceutical Preparations",
+    "country": "United States",
+    "diffPercent": -0.7
+  },
+  {
+    "ticker": "ABVX",
+    "name": "Abivax SA",
+    "sector": "Pharmaceutical Preparations",
+    "country": "France",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "SPXC",
+    "name": "SPX Technologies",
+    "sector": "Industrial Machinery/Components",
+    "country": "United States",
+    "diffPercent": -0.6
+  },
+  {
+    "ticker": "BRX",
+    "name": "Brixmor Property",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "PCVX",
+    "name": "Vaxcyte",
+    "sector": "Biological Products",
+    "country": "United States",
+    "diffPercent": 0.4
+  },
+  {
+    "ticker": "CUBE",
+    "name": "CubeSmart",
+    "sector": "Real Estate Investment Trusts",
+    "country": "United States",
+    "diffPercent": -0.8
+  },
+  {
+    "ticker": "PNR",
+    "name": "Pentair",
+    "sector": "Industrial Machinery/Components",
+    "country": "Switzerland",
+    "diffPercent": -0.9
+  },
+  {
+    "ticker": "MHK",
+    "name": "Mohawk Industries",
+    "sector": "Home Furnishings",
+    "country": "United States",
+    "diffPercent": -0.1
+  },
+  {
+    "ticker": "TTEK",
+    "name": "Tetra Tech",
+    "sector": "Military/Government/Technical",
+    "country": "United States",
+    "diffPercent": -2.2
+  },
+  {
+    "ticker": "AAOI",
+    "name": "Applied Optoelectronics",
+    "sector": "Semiconductors",
+    "country": "United States",
+    "diffPercent": -1.4
+  },
+  {
+    "ticker": "MP",
+    "name": "MP Materials",
+    "sector": "Metal Mining",
+    "country": "United States",
+    "diffPercent": 4.1
+  },
+  {
+    "ticker": "IDCC",
+    "name": "InterDigital",
+    "sector": "Multi-Sector Companies",
+    "country": "United States",
+    "diffPercent": 0.5
+  },
+  {
+    "ticker": "PRI",
+    "name": "Primerica",
+    "sector": "Life Insurance",
+    "country": "United States",
+    "diffPercent": -1.3
+  }
+]
