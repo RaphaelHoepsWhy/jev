@@ -15,7 +15,9 @@ const MAX_EVENTS = 20
 const MAX_HOVER_SECONDS = 600
 const NO_COMPARISON = "none"
 
-const INSTRUCTIONS = `A buyer is browsing used industrial robots. The activity lists the robots they looked at, oldest first. Are they comparing two robots right now? Comparing means going back and forth between the same two. One look at each, a single robot or scanning many is not comparing.`
+// const INSTRUCTIONS = `A buyer is browsing a grid of used industrial robots. Each card shows the robot's name and image, hovering a card shows its specs in a tooltip. The activity lists what the buyer did, oldest first, so the latest actions matter most. Is the buyer weighing two specific robots against each other, and which two? Comparing looks like returning to the same two robots after looking at each. Looking at two robots once each is not comparing yet, and neither is looking at a single robot or scanning across many.`
+
+const INSTRUCTIONS = `A buyer is hovering a grid of items, each identified by a robotId. While they are hovering, they see specifig data for the item.Look at the recorded hover events. Is the buyer comparing two specific items? An indicator for comparing is that they keep hovering on two specific items for a significant amount of time. Decide if they are currently comparing and which of the items they are currently comparing.`
 
 const robots = ROBOTS.map((robot) => ({
   name: robot.name,
@@ -70,6 +72,7 @@ export async function POST(request: Request) {
     return Response.json({ error: "Invalid events" }, { status: 400 })
   }
 
+  console.log(events)
   const { answers } = await experimental_evaluate({
     model: "typesafe-ai/jev",
     state: {
